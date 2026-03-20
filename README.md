@@ -1,4 +1,4 @@
-# assignment3_online_doctor
+# online_doctor
 
 Небольшой учебный проект для парсинга открытых данных со страницы doctor.kz/doctors.
 
