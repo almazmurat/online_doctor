@@ -68,3 +68,7 @@ python parse_doctor_kz.py --max-pages 5
 - Скрипт использует `requests` и `beautifulsoup4`.
 - Данные берутся только из открытых страниц без авторизации.
 - Поле `rating` может быть пустым, если на карточке врача рейтинг не указан.
+
+## Репозиторий
+
+https://github.com/almazmurat/assignment3_online_doctor
