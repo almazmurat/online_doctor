@@ -1,0 +1,218 @@
+{
+  "dataset_file": "doctor_kz_doctors.csv",
+  "total_records": 2000,
+  "unique_doctors": 2000,
+  "unique_specializations": 436,
+  "unique_cities": 26,
+  "field_filled": {
+    "doctor_name": 2000,
+    "specialization": 2000,
+    "experience_years": 2,
+    "clinic": 1991,
+    "city": 1987,
+    "rating": 2000,
+    "reviews_count": 2000,
+    "profile_url": 2000
+  },
+  "field_empty": {
+    "doctor_name": 0,
+    "specialization": 0,
+    "experience_years": 1998,
+    "clinic": 9,
+    "city": 13,
+    "rating": 0,
+    "reviews_count": 0,
+    "profile_url": 0
+  },
+  "top10_specializations": [
+    {
+      "specialization": "Врач УЗИ",
+      "count": 156
+    },
+    {
+      "specialization": "ЛОР/ Оториноларинголог",
+      "count": 117
+    },
+    {
+      "specialization": "Офтальмолог/ Окулист",
+      "count": 97
+    },
+    {
+      "specialization": "Акушер-гинеколог • Гинеколог",
+      "count": 76
+    },
+    {
+      "specialization": "Невропатолог/ Невролог",
+      "count": 73
+    },
+    {
+      "specialization": "Кардиолог",
+      "count": 61
+    },
+    {
+      "specialization": "Терапевт",
+      "count": 61
+    },
+    {
+      "specialization": "Педиатр",
+      "count": 50
+    },
+    {
+      "specialization": "Эндокринолог",
+      "count": 43
+    },
+    {
+      "specialization": "Гинеколог",
+      "count": 37
+    }
+  ],
+  "top10_cities": [
+    {
+      "city": "Алматы",
+      "count": 1153
+    },
+    {
+      "city": "Астана",
+      "count": 250
+    },
+    {
+      "city": "Шымкент",
+      "count": 230
+    },
+    {
+      "city": "Караганда",
+      "count": 76
+    },
+    {
+      "city": "Атырау",
+      "count": 71
+    },
+    {
+      "city": "Усть-Каменогорск",
+      "count": 35
+    },
+    {
+      "city": "Актобе (Актюбинск)",
+      "count": 31
+    },
+    {
+      "city": "Талгар",
+      "count": 25
+    },
+    {
+      "city": "Семей (Семипалатинск)",
+      "count": 25
+    },
+    {
+      "city": "Тараз",
+      "count": 17
+    }
+  ],
+  "top10_clinics": [
+    {
+      "clinic": "Городская клиническая больница №1",
+      "count": 97
+    },
+    {
+      "clinic": "Медицинский центр \"КЕРУЕН MEDICUS\"",
+      "count": 75
+    },
+    {
+      "clinic": "Медицинский центр \"DAUMED\"",
+      "count": 71
+    },
+    {
+      "clinic": "Медицинский центр Эмирмед (г.Алматы, ул.Нусупбекова, 26/1)",
+      "count": 69
+    },
+    {
+      "clinic": "Медицинский центр ЭМИРМЕД (г.Алматы, ул.Розыбакиева, 37в)",
+      "count": 69
+    },
+    {
+      "clinic": "Медицинский центр \"PREMIUM CLINIC\" на Дулати",
+      "count": 48
+    },
+    {
+      "clinic": "Медицинский центр ЭМИРМЕД (г.Астана, Күйші Дина,9)",
+      "count": 42
+    },
+    {
+      "clinic": "TOO \"Alta life\"",
+      "count": 38
+    },
+    {
+      "clinic": "Медицинский центр \"ЭСКУЛАП VITA\"",
+      "count": 38
+    },
+    {
+      "clinic": "Медицинский центр Эмирмед (г.Алматы, ул.Манаса, 53А)",
+      "count": 36
+    }
+  ],
+  "experience_years": {
+    "filled": 2,
+    "empty": 1998,
+    "mean": 14.0,
+    "median": 14.0,
+    "min": 10.0,
+    "max": 18.0
+  },
+  "rating": {
+    "filled_total": 2000,
+    "nonzero_count": 200,
+    "zero_or_missing": 1800,
+    "mean_nonzero": 4.565,
+    "median_nonzero": 5.0,
+    "distribution": {
+      "0 (нет рейтинга или 0)": 1800,
+      "0.1–1.9": 18,
+      "2.0–2.9": 2,
+      "3.0–3.9": 3,
+      "4.0–4.4": 2,
+      "4.5–4.9": 3,
+      "5.0": 172
+    }
+  },
+  "reviews_count": {
+    "filled": 2000,
+    "with_reviews_gt0": 201,
+    "mean": 0.15,
+    "median": 0.0
+  },
+  "cross_table_spec_x_city": {
+    "Врач УЗИ": {
+      "Алматы": 83,
+      "Шымкент": 21,
+      "Караганда": 7,
+      "Астана": 28,
+      "Атырау": 5
+    },
+    "Офтальмолог/ Окулист": {
+      "Алматы": 60,
+      "Астана": 14,
+      "Шымкент": 5,
+      "Атырау": 1,
+      "Караганда": 1
+    },
+    "Акушер-гинеколог • Гинеколог": {
+      "Шымкент": 18,
+      "Алматы": 40,
+      "Астана": 7
+    },
+    "ЛОР/ Оториноларинголог": {
+      "Шымкент": 12,
+      "Алматы": 78,
+      "Астана": 16,
+      "Атырау": 2,
+      "Караганда": 2
+    },
+    "Невропатолог/ Невролог": {
+      "Алматы": 43,
+      "Шымкент": 7,
+      "Астана": 9,
+      "Караганда": 5,
+      "Атырау": 3
+    }
+  }
+}
