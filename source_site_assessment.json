@@ -1,0 +1,202 @@
+[
+  {
+    "url": "https://doctorline.kz/doctors",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://doctorline.kz/doctors",
+    "has_bot_protection_signals": false,
+    "listing_signals": {
+      "links_total": 36,
+      "doctorish_links": 22,
+      "title": "DoctorLine"
+    },
+    "estimated_profile_links_on_page": 8,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "https://fonts.googleapis.com",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap",
+      "https://ui-avatars.com/api/?name=AI&background=fff&color=2563eb"
+    ],
+    "suitability_score": 45,
+    "notes": "Candidate for scraping."
+  },
+  {
+    "url": "https://ok.i-teka.kz/doctors",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://ok.i-teka.kz/doctors",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 581,
+      "doctorish_links": 498,
+      "title": "Врачи Казахстана - онлайн консультация на i-teka.kz"
+    },
+    "estimated_profile_links_on_page": 468,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap",
+      "https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/0IfSa6iUqPZ3v6tj.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/0pPGZl0mxTSJKcWP.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/3nOE3ehGjkBdfjzQ.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/3owIVlzUJu8NZjS3.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/4G8dvYNL8VxOGdvT.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/Y2Ah25fTGT2xXXV1.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/lgaX5e7Qec34fWyV.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/nlPs297oZJ3St55n.jpg",
+      "https://minio-api.i-teka.kz/ok-public/public/images/doctors/wnAw0ZESuVS0spRJ.jpg",
+      "https://ok.i-teka.kz/doctors/specialization/lucevaya-terapiya-onkologiya",
+      "https://ok.i-teka.kz/doctors/symptom/dlitelno-iili-vyalotekushhie-xroniceskie-zabolevaniya-lor-organov-bronxolegocnoi-sistemy-ne-poddayushhiesya-standartnym-sxemam-terapii",
+      "https://ok.i-teka.kz/doctors/symptom/poyavlenie-papillom-i-kondilom"
+    ],
+    "suitability_score": 85,
+    "notes": "Candidate for scraping."
+  },
+  {
+    "url": "https://portal.metaclinic.kz/?m=Doctors",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://portal.metaclinic.kz/?m=Doctors",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 0,
+      "doctorish_links": 0,
+      "title": "Metaclinic - ÐÑÐ°ÑÐ¸"
+    },
+    "estimated_profile_links_on_page": 0,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.1.0/uuidv1.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.1.0/uuidv3.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.1.0/uuidv4.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.1.0/uuidv5.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.0/uuid.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.0/uuidValidate.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.0/uuidVersion.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"
+    ],
+    "suitability_score": 40,
+    "notes": "No substantial doctor listing links on landing page."
+  },
+  {
+    "url": "https://yesmed.kz/vse-vrachi",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://yesmed.kz/vse-vrachi",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 109,
+      "doctorish_links": 0,
+      "title": "Врачи для взрослых и детей в Алматы в медицинском центре YESMED clinic"
+    },
+    "estimated_profile_links_on_page": 0,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&subset=latin,cyrillic"
+    ],
+    "suitability_score": 40,
+    "notes": "No substantial doctor listing links on landing page."
+  },
+  {
+    "url": "https://doq.kz/",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://doq.kz/",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 0,
+      "doctorish_links": 0,
+      "title": "DOQ.kz - сервис по поиску врачей и записи на прием"
+    },
+    "estimated_profile_links_on_page": 0,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "https://api.doq.kz"
+    ],
+    "suitability_score": 40,
+    "notes": "No substantial doctor listing links on landing page."
+  },
+  {
+    "url": "https://www.103.kz/list/konsultatsia-allergologa-online/kazakhstan/",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://www.103.kz/list/konsultatsia-allergologa-online/kazakhstan/",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 105,
+      "doctorish_links": 0,
+      "title": "Онлайн-консультация аллерголога: прием врача онлайн в Казахстане"
+    },
+    "estimated_profile_links_on_page": 0,
+    "supports_page_param": false,
+    "api_or_xhr_signals": [
+      "https://api.whatsapp.com/send?phone=77070000103&amp;text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D1%81%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0%20103.kz",
+      "https://api.whatsapp.com/send?phone=77077110303&amp;text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D1%81%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B0%20103.kz",
+      "https://ms1.103.kz/imagesv1/aa89a8f4bef92ca544ee732c562e43c7/resize/w=88,h=80,q=80/place_logo/zw/jj/dV/zwjjdVbT04qImMTeZn7gfSJGeb0rDoA7XHruJFRf.jpg"
+    ],
+    "suitability_score": 20,
+    "notes": "No substantial doctor listing links on landing page."
+  },
+  {
+    "url": "https://viamed.kz/doctor",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://viamed.kz/doctor",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 82,
+      "doctorish_links": 47,
+      "title": "Врачи в Алматы - медицинский центр Via Medial"
+    },
+    "estimated_profile_links_on_page": 47,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "/_nuxt/builds/meta/b6ec347b-2cb3-4cb5-9fed-3cdced2f26c6.json"
+    ],
+    "suitability_score": 55,
+    "notes": "Candidate for scraping."
+  },
+  {
+    "url": "https://docok.kz/vrach/",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://docok.kz/",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 99,
+      "doctorish_links": 5,
+      "title": "DocOK.kz — Поиск врача в Алматы с отзывами и рейтингом | DocOk.kz"
+    },
+    "estimated_profile_links_on_page": 5,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "/js/json.js",
+      "/manifest.json",
+      "/vrachi/almaty/physical-therapist",
+      "https://www.google.com/recaptcha/api.js?render=6LcWCI0iAAAAAHIqVKHsY5i6jrxH1KypYmgXhtk_"
+    ],
+    "suitability_score": 40,
+    "notes": "Candidate for scraping."
+  },
+  {
+    "url": "https://idoctor.kz/",
+    "accessible": true,
+    "status_code": 200,
+    "final_url": "https://idoctor.kz/",
+    "has_bot_protection_signals": true,
+    "listing_signals": {
+      "links_total": 337,
+      "doctorish_links": 272,
+      "title": "Сервис по поиску врачей и медцентров в Алматы | iDoctor.kz"
+    },
+    "estimated_profile_links_on_page": 246,
+    "supports_page_param": true,
+    "api_or_xhr_signals": [
+      "/almaty/doctors/netraditsionnaya-terapiya",
+      "/almaty/doctors/terapiya-podrostkovaya",
+      "/manifest.json"
+    ],
+    "suitability_score": 85,
+    "notes": "Candidate for scraping."
+  }
+]

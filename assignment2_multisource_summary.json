@@ -1,0 +1,14 @@
+{
+  "chosen_additional_sources": [
+    "https://ok.i-teka.kz/doctors",
+    "https://idoctor.kz/"
+  ],
+  "records": {
+    "doctor_kz": 2000,
+    "ok_i_teka_kz": 395,
+    "idoctor_kz": 281,
+    "doctorline_existing": 4,
+    "merged_total": 2680
+  },
+  "target_2500_achieved": true
+}

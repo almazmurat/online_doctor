@@ -1,0 +1,11 @@
+{
+  "doctor_kz_records": 2000,
+  "doctorline_records": 4,
+  "merged_records": 2004,
+  "doctorline_discovered_profile_urls": 4,
+  "doctorline_checked_list_pages": 30,
+  "doctorline_checked_specialization_filters": 12,
+  "doctorline_checked_search_queries": 41,
+  "doctorline_checked_date_queries": 31,
+  "doctorline_checked_direct_ids": 400
+}
